@@ -1,11 +1,8 @@
 {
-  "homepage": "http://nirajkuverma.github.io/video_audio",
   "name": "video-to-audio",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-	"predeploy": "npm run build",
-	"deploy": "gh-pages -d build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -25,11 +22,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nirajkuverma/video_audio.git"
+    "url": "git+https://github.com/Shruti2-0Thakur/Video-to-audio.git"
   },
   "bugs": {
-    "url": "https://github.com/nirajkuverma/video_audio/issues"
+    "url": "https://github.com/Shruti2-0Thakur/Video-to-audio/issues"
   },
+  "homepage": "https://github.com/Shruti2-0Thakur/Video-to-audio#readme",
   "description": "",
   "devDependencies": {
     "gh-pages": "^5.0.0"
