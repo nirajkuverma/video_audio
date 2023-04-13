@@ -1,0 +1,32 @@
+{
+  "name": "video-to-audio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.0",
+    "fileupload": "^1.0.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "node-fetch": "^2.6.7",
+    "nodemon": "^2.0.22",
+    "request": "^2.88.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shruti2-0Thakur/Video-to-audio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Shruti2-0Thakur/Video-to-audio/issues"
+  },
+  "homepage": "https://github.com/Shruti2-0Thakur/Video-to-audio#readme",
+  "description": ""
+}
